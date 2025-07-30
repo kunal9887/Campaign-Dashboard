@@ -20,7 +20,7 @@ d.📝 Data Modeling – Integrated customer and campaign data to form meaningfu
 e.📁 File Format – .pbit Power BI Template File, allowing easy reuse with other datasets.
 
 4.📈 Data Source - 
-Source: Kaggle - Bank Marketing Dataset (insert link to your actual dataset)
+Source: Kaggle
 The dataset includes detailed information about a bank's direct marketing campaigns targeting potential customers. It includes features such as age, job, marital status, education, loan status, previous contacts, and the final outcome (subscription to a term deposit).
 
 5.✨ Features / Highlights - 
