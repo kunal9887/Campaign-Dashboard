@@ -88,4 +88,4 @@ Cost Reduction: Eliminate ineffective touchpoints, focusing effort on high-perfo
 
 Performance Benchmarking: Track current campaign results vs. previous efforts for continuous improvement.
 
-6. Screenshot - 
+6. Screenshot - campaignDashboard.png
